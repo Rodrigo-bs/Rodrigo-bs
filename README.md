@@ -1,7 +1,7 @@
 # Hi, I'm Rodrigo!!!
 
 <ul style="font-size: 16px;">
-    <li>Training in Computer Technician For The Internet in <a href="#">IFAC</a> 📚 <span style="font-size: 12px; color: #ddd;">(98%)</span></li>
+    <li>Training in Computer Technician For The Internet in <a href="#">IFAC</a> 📚 <span style="font-size: 12px; color: #ddd;">(100%)</span></li>
     <li>Full stack Programmer 💻</li>
 </ul><br>
 
