@@ -1,7 +1,7 @@
-# Hi, I'm Rodrigo!!!
+# Olá, me chamo Rodrigo!
 
 <ul style="font-size: 16px;">
-    <li>Full stack Programmer 💻</li>
+    <li>Dev Full stack 💻</li>
 </ul><br>
 
 ### Programming Languages / Frameworks
