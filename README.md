@@ -1,38 +1,14 @@
-# Olá, me chamo Rodrigo!
+# Hi, my name is Rodrigo!
 
-<ul style="font-size: 16px;">
-    <li>Dev Full stack 💻</li>
-</ul><br>
+I build custom solutions for companies and startups as a Full Stack Developer & DevOps Engineer. Experienced in software architecture, web scraping, system design, and cloud infrastructure management — including greenfield development, legacy system maintenance, and AI-powered integrations.
 
-### Programming Languages / Frameworks
----
-<div style="display: inline-block;">
-    <img width="40px" style="margin-left: 0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-    <img width="40px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+**🛠️ Stack & Skills**
+`React` `Next.js` `Angular` `Vue.js` `Electron` `Node.js` `Nest.js` `PHP` `Laravel` `TypeScript` · Domain-Driven Design (DDD)
 
-<br>
-<br>
+**🗄️ Databases**
+`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Milvus` `PgVector`
 
-<div>
-  <a href="https://github.com/Rodrigo-bs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-bs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-bs&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+**⚙️ Tools & DevOps**
+`Supabase` `N8N` `Git` `GitHub Actions` `CI/CD`
 
----
-
-<div>
-    <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+Let's connect and transform your digital aspirations into reality! 🚀
