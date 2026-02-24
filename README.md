@@ -2,6 +2,8 @@
 
 I build custom solutions for companies and startups as a Full Stack Developer & DevOps Engineer. Experienced in software architecture, web scraping, system design, and cloud infrastructure management — including greenfield development, legacy system maintenance, and AI-powered integrations.
 
+---
+
 **🛠️ Stack & Skills**
 `React` `Next.js` `Angular` `Vue.js` `Electron` `Node.js` `Nest.js` `PHP` `Laravel` `TypeScript` · Domain-Driven Design (DDD)
 
